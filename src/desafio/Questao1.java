@@ -18,7 +18,7 @@ public class Questao1 {
 	}
 
 	public static void main(String[] args) {
-		//input que envia a variavel para a função
+		//input que envia a variável para a função
 		System.out.print("insira um número: ");
 		Scanner sc = new Scanner(System.in);
 		//chamada da função utilizando a variável que vem do scanner
