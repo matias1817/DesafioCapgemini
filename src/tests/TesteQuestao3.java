@@ -16,7 +16,7 @@ class TesteQuestao3 {
 	}
 	//teste que conefere se o número passado é igual ao retorno da função dado uma certa string 
 	@Test
-	void test2() {
+	void test2() { 
 		assertEquals(3, Questao3.anagramaFinder("ifailuhkqq"));
 	}
 	//teste que conefere se o número passado é diferente do retorno da função dado uma certa string 
